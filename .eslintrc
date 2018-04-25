@@ -33,7 +33,7 @@
     "object-curly-spacing": [2, "never"], // enforce consistent spacing inside braces of object literals, destructuring assignments, and import/export specifiers
     "quotes": [2, "single", { "allowTemplateLiterals": true }], // enforces the consistent use of either backticks, double, or single quotes
     "quote-props": [1, "as-needed", {"keywords": true}], // require quotes around object literal property names (off by default)
-    "semi": [2, "last"], //  reports line terminators around semicolons
+    "semi-style": [2, "last"], //  reports line terminators around semicolons
     "keyword-spacing": [2, {"before": true, "after": true}], // enforces consistent spacing around keywords and keyword-like tokens
     "space-unary-ops": 2, // enforces consistency regarding the spaces after words unary operators and after/before nonwords unary operators
     "indent": ["error", 2], // enforces a consistent indentation style of 2 spaces
